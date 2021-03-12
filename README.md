@@ -1,8 +1,8 @@
 ### Hello
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Galvão-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosrmgalvao/)](https://www.linkedin.com/in/marcosrmgalvao/) 
-[![Instagram Badge](https://img.shields.io/badge/-Marcos%20Galvão-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcos_rmgalvao/)](https://www.instagram.com/marcos_rmgalvao/)
-[![Blog Badge](https://img.shields.io/badge/-Blog%20Jogando%20com%20Dados-6633cc?style=flat-square&logo=Blog&logoColor=white&link=https://jogandocomdados.blogspot.com/)](https://jogandocomdados.blogspot.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Galvão-#4169E1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosrmgalvao/)](https://www.linkedin.com/in/marcosrmgalvao/) 
+[![Instagram Badge](https://img.shields.io/badge/-Marcos%20Galvão-#4169E1?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcos_rmgalvao/)](https://www.instagram.com/marcos_rmgalvao/)
+[![Blog Badge](https://img.shields.io/badge/-Blog%20Jogando%20com%20Dados-#4169E1?style=flat-square&logo=Blog&logoColor=white&link=https://jogandocomdados.blogspot.com/)](https://jogandocomdados.blogspot.com/)
 
 I am a student of Data Science 🎲 and python programming language 🐍
 
