@@ -6,6 +6,6 @@
 
 :bank: Today I'm IT Developer at Banco do Brasil
 
-:computer: My personal project that I'm currently working on is [Streamlit Web App](https://marcosrmg-investimentos-srcapp-dbqkha.streamlit.app/)
+:computer: My personal project that I'm currently working on is ["Mercado Financeiro"](https://mercado-financeiro.streamlit.app/)
 
 :man: You can find out more about me on my [Linkedin profile](https://br.linkedin.com/in/marcosrmgalvao)
