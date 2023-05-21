@@ -4,7 +4,7 @@
 
 :chart_with_upwards_trend: Data Science is the main field where I applied my Python skills
 
-:bank: Today I'm IT Developer at Banco do Brasil
+:bank: Today I'm Data Scientist at Banco do Brasil
 
 :computer: My personal project that I'm currently working on is ["Mercado Financeiro"](https://mercado-financeiro.streamlit.app/)
 
