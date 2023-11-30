@@ -6,6 +6,6 @@
 
 :bank: Today I'm Data Scientist at Banco do Brasil
 
-:computer: My personal project that I'm currently working on is ["Mercado Financeiro"](https://mercado-financeiro.streamlit.app/)
+:computer: My personal project that I'm currently working on is ["Financial Market"](https://financial-market.streamlit.app/)
 
 :man: You can find out more about me on my [Linkedin profile](https://br.linkedin.com/in/marcosrmgalvao)
